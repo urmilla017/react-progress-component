@@ -1,5 +1,5 @@
 # react-progress-component
-***
+
 Semi circular progress bar for react.
 
 ## Installation
