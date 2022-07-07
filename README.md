@@ -25,7 +25,7 @@ function App() {
 ## Options
 
 | Name                    | Type        | Default Value | Description                                             |
-| :---                    |    :----:   | :---          | :---                                                    |
+| :---                    | :----       | :---          | :---                                                    |
 | totalProgress           | number      | 100           | Total value for the progress bar                        |
 | progressValue           | number      | 10            | The current progress value                              |
 | progressLabel           | string      | 'Progress'    | Label for the progress bar                              |
