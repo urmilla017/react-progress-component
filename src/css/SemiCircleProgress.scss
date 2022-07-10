@@ -12,10 +12,6 @@
   
       .semi-progress-content {
         position: absolute;
-        // width: inherit;
-        // height: inherit;
-        // left: 50%;
-        // transform: translateX(-50%);
   
         .semi-progress-content-value {
           height: 100%;
@@ -27,12 +23,10 @@
         }
   
         .semi-progress-content-label {
-        //   height: 100%;
           display: flex;
           align-items: center;
           justify-content: center;
           font-size: 14px;
-        //   margin-top: 25%;
         }
       }
     }
