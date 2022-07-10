@@ -1,6 +1,6 @@
 {
   "name": "react-progress-component",
-  "version": "1.0.2",
+  "version": "2.0.0",
   "description": "Progress bar for react",
   "private": false,
   "main": "./build/index.js",
@@ -48,6 +48,7 @@
   "keywords": [
     "progress bar",
     "react",
-    "semi circle progress"
+    "semi circle progress",
+    "circle progress"
   ]
 }
