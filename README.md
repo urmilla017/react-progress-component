@@ -65,3 +65,10 @@ function App() {
 | backgroundColor         | string      | '#FFFFFF'     | Background color for the component                      |
 | strokeColor             | string      | '#7AC74F'     | Stroke color of the semi circle for the progressed area |
 | strokeLinecap           | string      | 'round'       | Shape of the end of the stroke                          |
+
+
+## Support
+
+If you have download and used the package and if you liked it, please support me by buying me a coffee :)
+\
+[Buy Me a Coffee](https://www.buymeacoffee.com/urmilla)
