@@ -69,6 +69,6 @@ function App() {
 
 ## Support
 
-If you have downloaded and used the package and if you liked it, please support me by buying me a coffee :)
+If you have downloaded and used the package, please support me by buying me a coffee :)
 \
 [Buy Me a Coffee](https://www.buymeacoffee.com/urmilla)
